@@ -22,5 +22,23 @@
     "language": "English",
     "user": "What is Malaria?",
     "bot": "I'm HealthPaddie. I'll do my best to help you.\n\nYou asked, \"What is Malaria?\"\n\nI'm sorry, but I don't have any information about Malaria in the provided context. To get the right information about Malaria, I advise you to consult a doctor or a trusted health information source. They can give you the correct information and help you understand how it's treated."
+  },
+  {
+    "timestamp": "2025-11-22T23:06:58.639075",
+    "language": "English",
+    "user": "What is malaria",
+    "bot": "Malaria is a serious and sometimes life-threatening disease caused by tiny parasites that are spread by mosquitoes. It's also known as \"bad air\" because it was once thought to be caused by bad air in marshy areas.\n\nThe parasites that cause malaria are called Plasmodium, and they can infect people through bites from infected mosquitoes. If left untreated, malaria can become severe and even life-threatening.\n\nDon't worry, though - malaria can be treated with the right medicine. But it's always best to talk to a doctor if you think you might have malaria. They can give you the best advice and help you get the treatment you need."
+  },
+  {
+    "timestamp": "2025-11-22T23:11:17.723240",
+    "language": "English",
+    "user": "What ia malaria",
+    "bot": "Malaria is a serious illness caused by a parasite that is spread through the bite of an infected mosquito. It is a global health problem and can be very severe if not treated. \n\nAccording to the text, malaria is an endemic vector-borne parasitic disease caused by the Plasmodium parasite. It can be diagnosed through clinical observation of signs and symptoms, as well as through blood smears and antigen-based rapid diagnostic tests.\n\nIf you think you might have malaria, please consult a doctor right away. They can provide a proper diagnosis and treatment."
+  },
+  {
+    "timestamp": "2025-11-22T23:14:03.848229",
+    "language": "Yoruba",
+    "user": "kin ni malaria",
+    "bot": "Malaria ni omo ilehin to si gbagbo. Malaria jẹ ilehin to si tiwa si ojú ọmọ ilẹ̀ Afrika."
   }
 ]
