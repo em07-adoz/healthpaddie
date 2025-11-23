@@ -58,6 +58,13 @@ HealthPaddie provides verified, multilingual health answers in a simple, accessi
 
 - Detects potentially serious symptoms
 
+## Built From
+- WHO fact sheets
+- American Society for Microsoft 
+- National Minority AIDS Council (NMAC)
+- Health education PDFs
+ - Public medical datasets
+
 ## RAG Pipeline Diagram
                       ┌────────────────────────┐
                       │        User Input       │
