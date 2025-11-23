@@ -82,5 +82,23 @@
     "language": "English",
     "user": "4",
     "bot": "User: 4\n\nYou are concerned about HIV. \n\nIf you have HIV, the first step is to take a test on an anonymous basis. If the test is positive, you can retest on a confidential basis to get the help you need. \n\nTo prevent spreading HIV, it's crucial to be open with your sexual partners or people you inject drugs with about your HIV status. You should also use condoms correctly during sex, choose safer sexual practices like oral sex, and not share needles or syringes. Talking to your partners about PrEP medications can also help prevent HIV. It's also essential to get tested for other STDs and receive necessary treatment."
+  },
+  {
+    "timestamp": "2025-11-23T10:36:17.365639",
+    "language": "English",
+    "user": "what is malaria",
+    "bot": "Malaria is a serious and sometimes life-threatening disease. It is caused by a type of parasite called Plasmodium, which is spread by the bite of an infected Anopheles mosquito. This disease is a major public health problem in many parts of the world.\n\nSymptoms of malaria include fever, chills, and flu-like symptoms. If left untreated, malaria can cause serious complications and even death. That's why it's so important to seek medical attention if you think you have malaria.\n\nPlease remember, if you're experiencing symptoms of malaria or have been bitten by an infected mosquito, consult a doctor right away for proper diagnosis and treatment."
+  },
+  {
+    "timestamp": "2025-11-23T10:44:49.875546",
+    "language": "English",
+    "user": "what is malaria",
+    "bot": "Malaria is a serious disease. It's caused by a type of parasite called Plasmodium. This parasite is spread by mosquitoes, specifically the Anopheles mosquito. \n\nWhen the parasite gets inside a person's body, it can cause a lot of problems. It can make people very sick, with symptoms like fever, and it can even be life-threatening if not treated."
+  },
+  {
+    "timestamp": "2025-11-23T10:45:08.414823",
+    "language": "English",
+    "user": "Causes of malaria",
+    "bot": "Causes of malaria is a broad topic. However, according to the information provided, the main cause of malaria in humans is the Plasmodium parasite, specifically the five known species of the genus Plasmodium that cause malaria in humans: \n\n- Plasmodium falciparum\n- Plasmodium vivax\n- Plasmodium malariae\n- Plasmodium ovale\n- Plasmodium knowlesi\n\nThese parasites are usually spread by mosquitoes, specifically the Anopheles mosquito."
   }
 ]
