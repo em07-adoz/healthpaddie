@@ -47,7 +47,7 @@ def create_vectorstore():
     print(f"✅ Split into {len(chunks)} chunks.")
 
     embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-mpnet-base-v2"
+        model_name="sentence-transformers/all-MiniLM-L6-v2"
     )
 
     vectorstore = FAISS.from_documents(chunks, embeddings)
