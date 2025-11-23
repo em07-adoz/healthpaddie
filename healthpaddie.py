@@ -42,14 +42,25 @@ LANGUAGE_OPTIONS = {
 }
 
 INTRO_TEXT = """
-🌿 **Welcome to HealthPaddie**
-
+🌿 Welcome to HealthPaddie
 Your trusted companion for verified health information.
 
-1 - English  
-2 - Hausa  
-3 - Yoruba  
-4 - Igbo  
+Please select your language:
+/ Zaɓi harshe / Yan ede / Họrọ asụsụ:
+
+1 - 🇬🇧 English
+    Welcome! I can answer your health questions using verified and trusted information.
+
+2 - 🇳🇬 Hausa (هَوْسَ)
+    Barka da zuwa! Zan ba ka amsa ga tambayoyin lafiya daga sahihan bayanai na gaskiya.
+
+3 - 🇳🇬 Yoruba
+    Kaabọ! Mo le dahun ibeere ilera rẹ nipa lilo alaye to dájú ati to pe.
+
+4 - 🇳🇬 Igbo
+    Nnọọ! Enwere m ike ịza ajụjụ gị gbasara ahụike site na ozi dị mma na e kwadoro.
+
+Type the number of your language choice (1–4) to continue.
 """
 
 BASE_SYSTEM_PROMPT = """
