@@ -41,7 +41,7 @@ def text_to_speech(text: str, output_filename: str = "speech.mp3") -> str:
     )
 
     # Write to file
-    response.write_to_file(output_path)
+    response.write_to_file(f"{output_path}")
 
     return str(output_path)
 

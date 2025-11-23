@@ -40,5 +40,35 @@
     "language": "Yoruba",
     "user": "kin ni malaria",
     "bot": "Malaria ni omo ilehin to si gbagbo. Malaria jẹ ilehin to si tiwa si ojú ọmọ ilẹ̀ Afrika."
+  },
+  {
+    "timestamp": "2025-11-22T23:52:34.498672",
+    "language": "Yoruba",
+    "user": "kin ni malaria",
+    "bot": "Malaria ti kin. Malaria ni omi iku aye, kiwon loju kiwon Plasmodium. Omisun loju kiwon Plasmodium se oju, kiwon loju kiwon kiwon aye. \n\nKo si omi iku aye ni kiwon, kiwon loju kiwon aye ni kiwon Plasmodium. Omi iku aye loju kiwon aye ni kiwon Plasmodium falciparum."
+  },
+  {
+    "timestamp": "2025-11-22T23:52:59.042684",
+    "language": "Yoruba",
+    "user": "kin ni malaria",
+    "bot": "Omi iku aye ti kin, kiwon loju kiwon Plasmodium. Omi iku aye loju kiwon aye ni kiwon Plasmodium falciparum. \n\nKo si omi iku aye ni kiwon, kiwon loju kiwon aye ni kiwon Plasmodium. Omi iku aye loju kiwon aye ni kiwon Plasmodium falciparum.\n\nKo si oju, kiwon loju kiwon aye ni kiwon Plasmodium falciparum. Kiwon loju kiwon Plasmodium falciparum ni kiwon omi iku aye loju kiwon aye ni kiwon malaria."
+  },
+  {
+    "timestamp": "2025-11-22T23:56:39.924341",
+    "language": "English",
+    "user": "what are the causes of malaria",
+    "bot": "User: what are the causes of malaria\n\nMalaria is caused by protozoan parasites of the genus Plasmodium in humans. These parasites are transmitted to humans through the bite of an infected mosquito."
+  },
+  {
+    "timestamp": "2025-11-22T23:57:51.025565",
+    "language": "English",
+    "user": "what is cholera",
+    "bot": "User: what is cholera\n\nI do not have information about the causes of cholera. The provided context does not mention cholera. \n\nTo learn more about cholera, I suggest consulting a healthcare professional or a reliable health source. They can provide you with accurate information and advice on how to prevent and treat the disease."
+  },
+  {
+    "timestamp": "2025-11-23T00:02:04.187002",
+    "language": "English",
+    "user": "what is tuberculosis",
+    "bot": "Hello, I'm HealthPaddie. I'm here to help you with your questions about health.\n\nYou asked: what is tuberculosis\n\nTuberculosis, or TB, is a disease caused by germs that are spread from person to person through the air. It usually affects the lungs, but it can also affect other parts of the body.\n\nTB can exist in two forms: latent TB infection and active TB disease. Latent TB means you have TB germs in your body, but you're not sick and can't spread the germs to others. Active TB disease is when the germs are active and you're sick, which can be fatal if not treated properly.\n\nIf you have symptoms of active TB disease, such as a long-lasting cough, coughing up blood or sputum, weakness, chest pain, fever, or chills, you should see a doctor right away. They can do tests to determine if you have active TB disease and help you get the right treatment.\n\nRemember, if you're concerned about TB or have symptoms that worry you, it's always best to consult a doctor for proper diagnosis and treatment."
   }
 ]
